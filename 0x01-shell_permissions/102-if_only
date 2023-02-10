@@ -1,0 +1,2 @@
+#!/bin/bash
+chown betty USER:guillaume hello
