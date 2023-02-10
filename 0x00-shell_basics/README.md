@@ -1,3 +1,0 @@
-<<<<<<< HEAD
-shell basc===
->>>>>>> Sheel
